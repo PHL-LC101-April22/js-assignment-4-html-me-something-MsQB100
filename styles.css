@@ -14,7 +14,10 @@
     background-color: yellow;
   }
 
-
+  header {
+    padding: 1.875em 0;
+    background-color: red;
+}
 
   li {
     padding: 0px;
@@ -24,7 +27,7 @@
   body {
     width: 100%;
     max-width: 1024px;
-    margin: 8;
+    margin: 8px;
     
 }
 
@@ -32,6 +35,6 @@
     background-color: red;
   }
 
-  #funParagraph {
+  #testP {
     background-color: green;
   }
