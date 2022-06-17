@@ -32,9 +32,11 @@
 }
 
 #mainHeading {
+    color:red;
     background-color: red;
   }
 
   #testP {
     background-color: green;
+    color:green;
   }
